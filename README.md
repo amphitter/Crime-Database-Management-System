@@ -10,7 +10,7 @@ Data Modification: The system allows users to add new rows and columns to the da
 
 Data Deletion: Users can delete rows and columns that are no longer needed or relevant to their analysis, helping to streamline the dataset and improve efficiency.
 
-Data Updates: The system supports data updates, ensuring that the dataset remains current and accurate as new crime information becomes available.
+Data Updates: The system supports data updates, ensuring that the dataset remains current and accurate as new crime information becomes available
 
 Data Presentation: Users can present the crime data in various formats, making it easier to understand and interpret. The system offers three types of graphical representations: Bar Charts, Line Charts, and Histograms.
 
